@@ -1,0 +1,40 @@
+C:\Users\Adam\OneDrive\Dokumenty\Visual Studio 2013\C#\Guide\Windows Forms\Milionerzy v01\Milionerzy v01\bin\Debug\Milionerzy v01.exe.config
+C:\Users\Adam\OneDrive\Dokumenty\Visual Studio 2013\C#\Guide\Windows Forms\Milionerzy v01\Milionerzy v01\bin\Debug\Milionerzy v01.exe
+C:\Users\Adam\OneDrive\Dokumenty\Visual Studio 2013\C#\Guide\Windows Forms\Milionerzy v01\Milionerzy v01\bin\Debug\Milionerzy v01.pdb
+C:\Users\Adam\OneDrive\Dokumenty\Visual Studio 2013\C#\Guide\Windows Forms\Milionerzy v01\Milionerzy v01\obj\Debug\Milionerzy v01.csprojResolveAssemblyReference.cache
+C:\Users\Adam\OneDrive\Dokumenty\Visual Studio 2013\C#\Guide\Windows Forms\Milionerzy v01\Milionerzy v01\obj\Debug\Milionerzy_v01.Form1.resources
+C:\Users\Adam\OneDrive\Dokumenty\Visual Studio 2013\C#\Guide\Windows Forms\Milionerzy v01\Milionerzy v01\obj\Debug\Milionerzy_v01.Properties.Resources.resources
+C:\Users\Adam\OneDrive\Dokumenty\Visual Studio 2013\C#\Guide\Windows Forms\Milionerzy v01\Milionerzy v01\obj\Debug\Milionerzy v01.csproj.GenerateResource.Cache
+C:\Users\Adam\OneDrive\Dokumenty\Visual Studio 2013\C#\Guide\Windows Forms\Milionerzy v01\Milionerzy v01\obj\Debug\Milionerzy v01.exe
+C:\Users\Adam\OneDrive\Dokumenty\Visual Studio 2013\C#\Guide\Windows Forms\Milionerzy v01\Milionerzy v01\obj\Debug\Milionerzy v01.pdb
+C:\Users\Adam\OneDrive\Dokumenty\Visual Studio 2013\C#\Guide\Windows Forms\Milionerzy v01\Milionerzy v01\bin\Debug\pl\Milionerzy v01.resources.dll
+C:\Users\Adam\OneDrive\Dokumenty\Visual Studio 2013\C#\Guide\Windows Forms\Milionerzy v01\Milionerzy v01\obj\Debug\Milionerzy_v01.Form1.pl.resources
+C:\Users\Adam\OneDrive\Dokumenty\Visual Studio 2013\C#\Guide\Windows Forms\Milionerzy v01\Milionerzy v01\obj\Debug\pl\Milionerzy v01.resources.dll
+C:\Users\Adam\OneDrive\Dokumenty\Visual Studio 2013\C#\Guide\Windows Forms\Milionerzy v01\Milionerzy v01\bin\Debug\quiz.txt
+E:\OneDrive\Dokumenty\Visual Studio 2013\C#\Guide\Windows Forms\Milionerzy v01\Milionerzy v01\bin\Debug\Milionerzy v01.exe.config
+E:\OneDrive\Dokumenty\Visual Studio 2013\C#\Guide\Windows Forms\Milionerzy v01\Milionerzy v01\obj\Debug\Milionerzy v01.exe
+E:\OneDrive\Dokumenty\Visual Studio 2013\C#\Guide\Windows Forms\Milionerzy v01\Milionerzy v01\obj\Debug\Milionerzy v01.pdb
+E:\OneDrive\Dokumenty\Visual Studio 2013\C#\Guide\Windows Forms\Milionerzy v01\Milionerzy v01\bin\Debug\quiz.txt
+E:\OneDrive\Dokumenty\Visual Studio 2013\C#\Guide\Windows Forms\Milionerzy v01\Milionerzy v01\bin\Debug\Milionerzy v01.exe
+E:\OneDrive\Dokumenty\Visual Studio 2013\C#\Guide\Windows Forms\Milionerzy v01\Milionerzy v01\bin\Debug\Milionerzy v01.pdb
+E:\OneDrive\Dokumenty\Visual Studio 2013\C#\Guide\Windows Forms\Milionerzy v01\Milionerzy v01\bin\Debug\pl\Milionerzy v01.resources.dll
+E:\OneDrive\Dokumenty\Visual Studio 2013\C#\Guide\Windows Forms\Milionerzy v01\Milionerzy v01\obj\Debug\Milionerzy v01.csprojResolveAssemblyReference.cache
+E:\OneDrive\Dokumenty\Visual Studio 2013\C#\Guide\Windows Forms\Milionerzy v01\Milionerzy v01\obj\Debug\Milionerzy_v01.Form1.resources
+E:\OneDrive\Dokumenty\Visual Studio 2013\C#\Guide\Windows Forms\Milionerzy v01\Milionerzy v01\obj\Debug\Milionerzy_v01.Properties.Resources.resources
+E:\OneDrive\Dokumenty\Visual Studio 2013\C#\Guide\Windows Forms\Milionerzy v01\Milionerzy v01\obj\Debug\Milionerzy_v01.Form1.pl.resources
+E:\OneDrive\Dokumenty\Visual Studio 2013\C#\Guide\Windows Forms\Milionerzy v01\Milionerzy v01\obj\Debug\Milionerzy v01.csproj.GenerateResource.Cache
+E:\OneDrive\Dokumenty\Visual Studio 2013\C#\Guide\Windows Forms\Milionerzy v01\Milionerzy v01\obj\Debug\pl\Milionerzy v01.resources.dll
+C:\Users\Adam\OneDrive\Dokumenty\Visual Studio 2013\C#\Guide\Windows Forms\Milionerzy v01\Milionerzy v01\obj\Debug\Milionerzy_v01.tablica_wyn.resources
+E:\OneDrive\Dokumenty\Code\C#\Podrecznik Programowania w C# z przykładami\Windows Forms\Milionerzy v01\Milionerzy v01\bin\Debug\Milionerzy v01.exe.config
+E:\OneDrive\Dokumenty\Code\C#\Podrecznik Programowania w C# z przykładami\Windows Forms\Milionerzy v01\Milionerzy v01\obj\Debug\Milionerzy v01.exe
+E:\OneDrive\Dokumenty\Code\C#\Podrecznik Programowania w C# z przykładami\Windows Forms\Milionerzy v01\Milionerzy v01\obj\Debug\Milionerzy v01.pdb
+E:\OneDrive\Dokumenty\Code\C#\Podrecznik Programowania w C# z przykładami\Windows Forms\Milionerzy v01\Milionerzy v01\bin\Debug\quiz.txt
+E:\OneDrive\Dokumenty\Code\C#\Podrecznik Programowania w C# z przykładami\Windows Forms\Milionerzy v01\Milionerzy v01\bin\Debug\Milionerzy v01.exe
+E:\OneDrive\Dokumenty\Code\C#\Podrecznik Programowania w C# z przykładami\Windows Forms\Milionerzy v01\Milionerzy v01\bin\Debug\Milionerzy v01.pdb
+E:\OneDrive\Dokumenty\Code\C#\Podrecznik Programowania w C# z przykładami\Windows Forms\Milionerzy v01\Milionerzy v01\bin\Debug\pl\Milionerzy v01.resources.dll
+E:\OneDrive\Dokumenty\Code\C#\Podrecznik Programowania w C# z przykładami\Windows Forms\Milionerzy v01\Milionerzy v01\obj\Debug\Milionerzy v01.csprojResolveAssemblyReference.cache
+E:\OneDrive\Dokumenty\Code\C#\Podrecznik Programowania w C# z przykładami\Windows Forms\Milionerzy v01\Milionerzy v01\obj\Debug\Milionerzy_v01.Form1.resources
+E:\OneDrive\Dokumenty\Code\C#\Podrecznik Programowania w C# z przykładami\Windows Forms\Milionerzy v01\Milionerzy v01\obj\Debug\Milionerzy_v01.Properties.Resources.resources
+E:\OneDrive\Dokumenty\Code\C#\Podrecznik Programowania w C# z przykładami\Windows Forms\Milionerzy v01\Milionerzy v01\obj\Debug\Milionerzy_v01.Form1.pl.resources
+E:\OneDrive\Dokumenty\Code\C#\Podrecznik Programowania w C# z przykładami\Windows Forms\Milionerzy v01\Milionerzy v01\obj\Debug\Milionerzy v01.csproj.GenerateResource.Cache
+E:\OneDrive\Dokumenty\Code\C#\Podrecznik Programowania w C# z przykładami\Windows Forms\Milionerzy v01\Milionerzy v01\obj\Debug\pl\Milionerzy v01.resources.dll
